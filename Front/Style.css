@@ -24,7 +24,7 @@ body{
     font-size: 18px;
     color: rgb(116, 9, 187);
     margin-top: 10%;
-    margin-left: -20%;
+    margin-left: -35%;
 
 }
 
@@ -36,7 +36,7 @@ body{
     margin-left: 35%;
     margin-top: 8%;
     padding-top: 0%;
-    padding-left: 150px;
+    padding-left: 80px;
 
     border-radius: 10px;
 
@@ -63,7 +63,7 @@ button{
     padding: 5px;
     margin: 10px;
    
-    margin-left: -35px;
+    margin-left: -20px;
 
     border-radius: 5px;
 
@@ -89,5 +89,5 @@ button{
 
 .botao{
    
-    margin-left: 50px;
+    margin-left: -15px;
 }
